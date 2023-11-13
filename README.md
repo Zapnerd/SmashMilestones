@@ -1,0 +1,2 @@
+# SmashMilestones
+This will be a plugin that people can use to make milestones on their server. There will be a central GUI and you can configure in milestones with rewards when players reach certain milestones. There will be an API to add to a milestone, and a command. I eventually plan to add in automated milestones like if you have one as "mining", it will automatically add when people mine. But that will be optional.
