@@ -1,0 +1,4 @@
+name: SmashMilestones
+version: '${project.version}'
+main: me.zap.smashmilestones.SmashMilestones
+api-version: '1.20'

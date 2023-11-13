@@ -1,0 +1,12 @@
+database:
+  # Available types: MySQL, SQLite
+  type: SQLite
+  # MySQL Settings
+  MySQL:
+    host: localhost:3306
+    database: database
+    username: username
+    password: password
+  # SQLite Settings
+  SQLite:
+    file: data.db
